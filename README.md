@@ -1,10 +1,8 @@
- <img width="1024" alt="Sin título" src="https://github.com/user-attachments/assets/c887dbcd-766b-4e53-98cd-81002dbff139">
+ <img width="1024" alt="bannerDEV" src="https://github.com/user-attachments/assets/c887dbcd-766b-4e53-98cd-81002dbff139">
 
- # 💫 About Me:
-I’m a digital designer and frontend developer passionate about creating visually appealing and functional interfaces, blending technique with creativity 🎨💻. Currently, I work as a freelancer, looking to collaborate on open source projects and contribute my expertise in user interface development 🌟.<br><br>I enjoy crafting experiences that are both functional and visually impactful 👩‍💻✨. Right now, I’m learning Angular to expand my frontend development skills and stay at the cutting edge of technology 🚀.
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/mauro-pepa-dev/">Mauro</a></h2>
+I’m a digital designer and frontend developer passionate about creating visually appealing and functional interfaces, blending technique with creativity 🎨💻. Currently, I work as a freelancer, looking to collaborate on open source projects🌟.<br><br>
 
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.reddit.com/user/PEPAXD640/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauro-pepa-dev/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/PEPAXD640/) 
 
 # 💻 Tech Stack:
