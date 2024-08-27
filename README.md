@@ -162,18 +162,26 @@ I’m a digital designer and frontend developer passionate about creating visual
   </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PEPAXD&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PEPAXD&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PEPAXD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Social Networks
+Feel free to reach out to me if you have any questions or suggestions:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PEPAXD&limit=5&theme=holi&combine_all_yearly_contributions=true)
+[![GitHub][GitHub-badge]][GitHub-url]
+[![LinkedIn][LinkedIn-badge]][LinkedIn-url]
+[![Email][Email-badge]][Email-url]
+[![Reddit][Reddit-badge]][Reddit-url]
+[![Instagram][Instagram-badge]][Instagram-url]
 
----
-[![](https://visitcount.itsvg.in/api?id=PEPAXD&icon=0&color=12)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[GitHub-badge]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/pepaxd
+[LinkedIn-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn-url]: https://www.linkedin.com/in/mauro-pepa-dev/
+[Email-badge]: https://img.shields.io/badge/Email-6A0D91?style=for-the-badge&logo=gmail&logoColor=white
+[Email-url]: mailto:mauropepa1997oficial@gmail.com
+[Reddit-badge]: https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+[Reddit-url]: https://www.reddit.com/user/PEPAXD640/
+[Instagram-badge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[Instagram-url]: https://www.instagram.com/mauropepa97/
