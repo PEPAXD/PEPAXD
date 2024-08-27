@@ -7,58 +7,57 @@ I’m a digital designer and frontend developer passionate about creating visual
 
 # 💻 Tech Stack:
 > Frontend Tools
-
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-html5">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-css3">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-js">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-react">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-typescript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-sass">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-tailwind">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-bootstrap">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-wordpress">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
       </a>
@@ -68,45 +67,45 @@ I’m a digital designer and frontend developer passionate about creating visual
 </table>
 
 > Backend Tools
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-python">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-java">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-nodejs">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-git">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-mongodb">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-firebase">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
-       <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-bash">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
       </a>
@@ -116,27 +115,27 @@ I’m a digital designer and frontend developer passionate about creating visual
 </table>
 
 > Design Tools
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-figma">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-adobe-illustrator">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Adobe Illustrator" />
       </a>
       <br>Adobe Illustrator
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-adobe-photoshop">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
       <br>Adobe Photoshop
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#tech-adobe-premiere">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="Adobe Premiere" />
       </a>
@@ -144,11 +143,6 @@ I’m a digital designer and frontend developer passionate about creating visual
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PEPAXD&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
