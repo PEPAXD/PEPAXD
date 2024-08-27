@@ -3,11 +3,17 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/mauro-pepa-dev/">Mauro</a></h2>
 I’m a digital designer and frontend developer passionate about creating visually appealing and functional interfaces, blending technique with creativity 🎨💻. Currently, I work as a freelancer, looking to collaborate on open source projects🌟.<br><br>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.reddit.com/user/PEPAXD640/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauro-pepa-dev/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/PEPAXD640/) 
+
+<div align="right">
 
 [![Check my works][CheckWorks-badge]][CheckWorks-url]
 
 [CheckWorks-badge]: https://img.shields.io/badge/Check%20my%20works-FF5722?style=for-the-badge&logo=github&logoColor=white
 [CheckWorks-url]: https://pepaxd.github.io/MyDevPortfoli/
+</div>
+
+
 
 # 💻 Tech Stack:
 > Frontend Tools
@@ -179,4 +185,4 @@ I’m a digital designer and frontend developer passionate about creating visual
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.reddit.com/user/PEPAXD640/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauro-pepa-dev/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/PEPAXD640/) 
+
