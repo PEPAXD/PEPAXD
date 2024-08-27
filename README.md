@@ -7,7 +7,7 @@ I’m a digital designer and frontend developer passionate about creating visual
 
 # 💻 Tech Stack:
 > Frontend Tools
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="96" style="border: none;">
       <a href="#tech-html5">
@@ -63,11 +63,18 @@ I’m a digital designer and frontend developer passionate about creating visual
       </a>
       <br>WordPress
     </td>
+   <td align="center" width="96" style="border: none;">
+  <a href="#tech-vite">
+    <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+  </a>
+  <br>Vite
+</td>
+
   </tr>
 </table>
 
 > Backend Tools
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="96" style="border: none;">
       <a href="#tech-python">
@@ -115,7 +122,7 @@ I’m a digital designer and frontend developer passionate about creating visual
 </table>
 
 > Design Tools
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="96" style="border: none;">
       <a href="#tech-figma">
@@ -127,20 +134,27 @@ I’m a digital designer and frontend developer passionate about creating visual
       <a href="#tech-adobe-illustrator">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Adobe Illustrator" />
       </a>
-      <br>Adobe Illustrator
+      <br>Illustrator
     </td>
     <td align="center" width="96" style="border: none;">
       <a href="#tech-adobe-photoshop">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
-      <br>Adobe Photoshop
+      <br>Photoshop
     </td>
     <td align="center" width="96" style="border: none;">
       <a href="#tech-adobe-premiere">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="Adobe Premiere" />
       </a>
-      <br>Adobe Premiere
+      <br>Premiere
     </td>
+   <td align="center" width="96" style="border: none;">
+  <a href="#tech-canva">
+    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" height="48" alt="Canva" />
+  </a>
+  <br>Canva
+</td>
+   
   </tr>
 </table>
 
