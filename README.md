@@ -9,6 +9,7 @@ I’m a digital designer and frontend developer passionate about creating visual
 [CheckWorks-badge]: https://img.shields.io/badge/Check%20my%20works-FF5722?style=for-the-badge&logo=github&logoColor=white
 [CheckWorks-url]: https://pepaxd.github.io/MyDevPortfoli/
 
+
 # 💻 Tech Stack:
 > Frontend Tools
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
@@ -161,6 +162,20 @@ I’m a digital designer and frontend developer passionate about creating visual
    
   </tr>
 </table>
+
+## Environments I work with:
+
+<a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="42"></a>
+<a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a>
+<a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a>
+<a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
+<a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
+<a href="https://linuxmint.com/"><img alt="Linux Mint" title="Linux Mint" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height="42"></a>
+<a href="https://www.kali.org/"><img alt="Kali Linux" title="Kali Linux" src="https://www.kali.org/images/kali-dragon-icon.svg" height="42"></a>
+<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"></a>
+<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" height="42"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" title="PyCharm" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" height="42"></a>
+
 
 ## Social Networks
 Feel free to reach out to me if you have any questions or suggestions:
