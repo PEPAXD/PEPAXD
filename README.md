@@ -2,7 +2,7 @@
   <img width="3566" height="1184" alt="MauroBanner" src="https://github.com/user-attachments/assets/21d5e164-c27c-4e00-bd0c-b12cd3e64550" />
 
   <h1>Hey 👋, I'm <a href="https://www.linkedin.com/in/mauro-pepa-dev/">Mauro Exequiel Pepa</a></h1>
-  <p><strong>Cloud Application Architect | DevOps Engineer | AWS Certified</strong></p>
+  <p><strong>Cloud Application Architect | DevOps | AWS Certified</strong></p>
   
   <p>
     Profesional en Arquitectura Cloud e Ingeniería DevOps enfocado en la automatización, escalabilidad y optimización de costos (FinOps). 
@@ -20,9 +20,9 @@
 
 ### 🚀 Profesional Focus
 
-*   **Cloud & Infrastructure:** Especialista en AWS (EC2, RDS, Lambda, Bedrock) gestionado mediante **Terraform** (IaC).
-*   **CI/CD & Automation:** Diseño de pipelines eficientes para eliminar errores manuales y acelerar el despliegue.
-*   **AI Integration:** Implementación de LLMs (Claude, GPT, Amazon Q) para automatización de procesos institucionales.
+*   **Cloud & Infrastructure:** Especialista en AWS, desarrollo arquitectura cloud siguiendo las buenas practicas IaaC.
+*   **CI/CD & Automation:** Diseño pipelines eficientes para eliminar errores manuales, acelerar y optimizar despliegues.
+*   **AI Integration:** Implementación de LLMs IA en sistemas institucionales.
 *   **FinOps:** Optimización de recursos en la nube para maximizar el rendimiento al menor costo posible.
 
 ---
@@ -166,7 +166,7 @@
 ---
 
 ### 📈 Actual Engagement
-- 🏛️ **Gobierno de Córdoba:** Liderando la arquitectura de aplicaciones cloud y procesos DevOps.
+- 🏛️ **Gobierno de Córdoba:** arquitecto de aplicaciones cloud y procesos DevOps.
 ---
 
 ### 📫 Connect with me
